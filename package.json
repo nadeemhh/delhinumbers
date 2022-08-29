@@ -1,0 +1,19 @@
+{
+  "name": "node_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "author": "nadeem",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "jsdom": "^19.0.0",
+    "mongoose": "^6.3.3",
+    "validator": "^13.7.0"
+  }
+}
